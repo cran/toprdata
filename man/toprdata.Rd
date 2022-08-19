@@ -5,14 +5,16 @@
 \alias{toprdata}
 \title{toprdata}
 \description{
-Gene and exon datasets to use with the topr package
+Gene and exon datasets to use with the 'topr' package
 }
 \section{datasets}{
 
 The two datasets are:
 \itemize{
-\item \code{\link{ENSGENES}} Gene information
-\item \code{\link{ENSEXONS}} Exon informatino
+\item \code{\link{ENSGENES}} Gene information from genome build GRCh38
+\item \code{\link{ENSEXONS}} Exon information from genome build GRCh38
+\item \code{\link{ENSGENES_37}} Gene information from genome build GRCh37
+\item \code{\link{ENSEXONS_37}} Exon information from genome build GRCh37
 }
 }
 
